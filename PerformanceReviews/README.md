@@ -200,6 +200,69 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 
 ## [April 2021 - with Manager Responses.pdf](./210412%20-%20with%20Manager%20Responses.pdf)
 
+<details open><summary><b>AI Summary of Manager Assessment</b></summary>
+
+> Your manager commended your ability to adapt to remote work during the pandemic while delivering valuable contributions to the team.
+>
+> ### Key Accomplishments:
+>
+> * **Enhanced Lab Functionality**: Increased the value of the test lab for the team, particularly in a remote work environment.
+> * **Developed BF Database**: Successfully completed development and testing for the BF test result database, a crucial tool for automating test results and visibility.
+> * **Improved Master Traceability Table** (MTT): Your work on BF significantly automated the MTT generation process for safety certification.
+> * **Coached and Mentored Interns**: Successfully provided guidance and leadership to student interns despite remote work limitations.
+>
+> ### Company Values Demonstrated:
+>
+> * **Teamwork**: You actively looked for ways to improve team efficiency through better tooling and work methods.
+> * **Customer Focus**: You consistently provided support to colleagues with IT issues, equipment upgrades, and software problems.
+> * **Accountability**: You proactively addressed lab setup improvements and delivered BF features on schedule.
+> * **Mutual Respect**: You fostered positive and collaborative working relationships despite disagreements.
+>
+> ### Development Areas:
+>
+> * **Web Development and Database Management**: Your manager encourages you to continue developing these skills.
+>
+> ### Career Development Support:
+>
+> * **Automation Expertise**: Your manager suggests focusing on automation, a key strategic goal for the QNX test team.
+>   Leverage your knowledge across multiple teams to identify synergies and common automation opportunities.
+>
+> Overall your manager is impressed with your ability to handle challenges, stay focused, and deliver results despite the pandemic.
+> They acknowledge your technical skills, willingness to take on new tasks, and strong work ethic, all of which contributed significantly to QNX product delivery.
+> They recognize you as a valuable asset who effectively supports team productivity through your willingness to help colleagues with IT solutions.
+
+</details>
+
+<details open><summary><b>AI Summary</b></summary>
+
+> ### Technical Skills:
+>
+> * **Hardware Setup and Maintenance**: Assembled test shelves, configured power, ethernet, RS232, and USB connections, installed ESD safety mats.
+> * **Network & Server Administration**: Assisted IT with equipment procurement, configuration, security, and user groups.
+> * **Scripting**: Created proof-of-concept interface for vendor-agnostic power control via test scripts.
+> * **Database Management**: Designed, implemented, and maintained BF dashboard infrastructure, implemented procedures for capturing additional test result details.
+> * **Log Analysis**: Developed a LogParser to capture additional information from Benchmark logs.
+> * **Web Development**: Contributed to BF web dashboard development, keeping pace with framework updates and new features.
+>
+> ### Problem-Solving and Innovation:
+>
+> * **Troubleshooted Test Equipment**: Identified and resolved device enumeration problem on the terminal server, saving time and reducing errors.
+> * **Automation Development**: Developed scripts and solutions for automating test data retrieval, remote desktop login, and laptop migration processes.
+> * **Continuous Improvement**: Provided recommendations to Regression test team to improve data capture for better analysis.
+>
+> ### Teamwork and Customer Focus:
+>
+> * **Local IT Support**: Acted as the local IT contact, assisting colleagues with troubleshooting PCs, equipment upgrades, and server room configurations.
+> * **Mentorship**: Oversaw and mentored undergraduate interns, guiding them in implementing features on the BF web dashboard.
+> * **Collaboration**: Worked with various teams (WiFi, Systems, Regression) to achieve project goals and improve testing methods.
+>
+> ### Additional Skills:
+>
+> * **Learning Agility**: Demonstrated continuous learning through framework updates, new technology research (web development), and skill development for faster script development.
+> * **Communication**: Provided technical information assisted with the creation of a script automating MTT report creation, saving the team significant time.
+
+</details>
+
 ## [April 2020 - with Manager Responses.pdf](./200423%20-%20with%20Manager%20Responses.pdf)
 
 ## [April 2019 - with Manager Responses.pdf](./190415%20-%20with%20Manager%20Responses.pdf)
@@ -207,3 +270,5 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 ## [April 2018 - with Manager Responses.pdf](./180413%20-%20with%20Manager%20Responses.pdf)
 
 ## [April 2017 - with Manager Responses.pdf](./170410%20-%20with%20Manager%20Responses.pdf)
+
+<!-- markdownlint-restore -->
