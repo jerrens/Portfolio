@@ -1,0 +1,14 @@
+{
+    "default": true,
+    "line-length": {
+        "line_length": 300
+    },
+    "no-trailing-punctuation": {
+        "punctuation": ".,;"
+    },
+    "no-inline-html": {
+        "allowed_elements": [
+            "sup"
+        ]
+    }
+}

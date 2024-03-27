@@ -1,0 +1,2 @@
+# Ignore files with a prefix of ORIG in any folder
+**/ORIG*
