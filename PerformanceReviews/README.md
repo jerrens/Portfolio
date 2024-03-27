@@ -21,6 +21,8 @@ I hope they offer valuable insights into my professional journey and help you ga
 **Note:** Considering the length of many of these reviews, I fed the contents of each into an AI, requesting it to create a summary.
 These summaries are included below each section
 
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable no-duplicate-heading -->
 ## [February 2024 - Self Evaluation.pdf](./240201%20-%20Self%20Evaluation.pdf)
 
 Unfortunately, due to our site being unexpectedly shutdown on March 19, 2024, we were in the middle of our evaluation period and the responses from my manager had not yet been release for my review.
@@ -73,7 +75,7 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 > * You're a critical asset to the Cary and overall QNX test team, consistently delivering successful results across diverse tasks.
 > * Your work on test tools, has been instrumental in enabling wider adoption and improved test result analysis for over 100 team members.
 >   This has directly supported on-time, high-quality deliveries for projects.
-> * Your proactive approach to database management in Blackfish demonstrates a keen eye for performance optimization and a commitment to continuous improvement.
+> * Your proactive approach to database management in BF demonstrates a keen eye for performance optimization and a commitment to continuous improvement.
 >
 > ### Teamwork and Support:
 >
@@ -108,7 +110,7 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 >
 > * **Database Optimization**: Identified and resolved performance bottlenecks in MongoDB, improving query execution time significantly.
 > * **Cost-Effective Solutions**: Designed and implemented a Raspberry Pi-based terminal server solution as a cost-effective alternative to expensive commercial solutions.
-> * **Process Improvement**: Actively contributed to improving test result collection, analysis, and reporting through BlackFish development.
+> * **Process Improvement**: Actively contributed to improving test result collection, analysis, and reporting through BF development.
 >
 > ### Collaboration and Communication:
 >
@@ -127,6 +129,74 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 </details>
 
 ## [April 2022 - with Manager Responses.pdf](./230530%20-%20with%20Manager%20Responses.pdf)
+
+<details open><summary><b>AI Summary of Manager Assessment</b></summary>
+
+> Your manager is very impressed with your work. They highlighted your problem-solving skills, technical expertise, and willingness to go the extra mile to support your team.
+>
+> ### Key Accomplishments:
+>
+> * Developed and implemented critical solutions for the test lab, including the BF database and the Cary automated test lab.
+> * Played a key role in ensuring continued productivity during the COVID-19 work-from-home period.
+> * Acted as the unofficial IT coordinator, resolving issues and enabling colleagues to be productive.
+>
+> ### Company Values Demonstrated:
+>
+> * **Teamwork and Collaboration**: You effectively collaborate with a large team (~75 testers), providing leadership and guidance.
+> * **Innovation**: You demonstrate a willingness to learn new technologies and implement creative solutions (e.g., BF database, RPi automation).
+> * **Customer Focus** (Internal): You prioritize the needs of your colleagues and ensure their tools and equipment function smoothly.
+> * **Accountability**: You take ownership of your work and deliver reliable solutions.
+>
+> ### Development and Growth:
+>
+> * Your manager encourages you to continue developing your skills and explore relevant external courses.
+> * They see continued focus on automation and test process improvements as a key area for your career development.
+>
+> ### Overall Impression:
+>
+> Your manager views you as a highly valuable team member with a strong work ethic, impressive technical skills, and a collaborative spirit. They acknowledge your ability to see the "big picture" and translate it into practical solutions.
+>
+> ### Key Takeaways for You:
+>
+> * This review is a strong endorsement of your skills and contributions.
+> * Your manager is invested in your development and supports your pursuit of further learning.
+> * Focus on automation and test process improvements can position you well for future career advancement.
+
+</details>
+
+<details open><summary><b>AI Summary</b></summary>
+
+> ### Technical Skills:
+>
+> * **Backend Development**: Expertise in Node.js, MongoDB, REST APIs, server configuration (NGinX), database management (configuration, optimization, replication).
+> * **Scripting**: Experience with Python (LogParsing script, Raspberry Pi setup).
+> * **Hardware Setup and Maintenance**: Server rack assembly, configuration, and maintenance (including security patches and updates). Network configuration basics.
+> * **Version Control and Project Management**: Proficient in GitLab (issues, repositories, branching strategies) and JIRA (ticketing system).
+> * **Third-Party Integration**: Experience evaluating and integrating third-party modules for efficient functionalities.
+>
+> ### Problem-Solving and Innovation:
+>
+> * **Database Optimization**: Identified and resolved performance bottlenecks in MongoDB, significantly improving query execution times.
+> * **Creative Solutions**: Designed and implemented a Raspberry Pi-based terminal server solution as a cost-effective alternative.
+> * **Automation and Efficiency**: Developed control interfaces (serial & REST APIs) for custom hardware board, enabling test script automation.
+> * **Data Management and Analysis**: Played a key role in designing and developing BF infrastructure for test result management and analysis.
+> * **Future-Proofing**: Implemented design considerations and code features to accommodate future enhancements in BF.
+>
+> ### Collaboration and Communication:
+>
+> * Teamwork: Extensive collaboration with various teams to achieve project goals.
+> * Mentorship and Training: Guided colleagues on script modifications and BF usage.
+> * Technical Communication: Created a BF presentation explaining the system in detail.
+> * Customer Focus (Internal): Proactively addressed co-worker IT needs, acting as the local IT contact.
+> * Project Management: Contributed to planning and design efforts for a PyTest plugin for BF integration.
+>
+> ### Additional Skills:
+>
+> * **Learning Agility**: Demonstrated continuous learning through framework updates, new technology research, and feature integration for BF.
+> * **Documentation**: Created documentation for the hardware control board and BF wiki pages.
+> * **Attention to Detail**: Identified and corrected errors in server room equipment quotes.
+
+</details>
 
 ## [April 2021 - with Manager Responses.pdf](./210412%20-%20with%20Manager%20Responses.pdf)
 
