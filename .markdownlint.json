@@ -8,6 +8,9 @@
     },
     "no-inline-html": {
         "allowed_elements": [
+            "b",
+            "details",
+            "summary",
             "sup"
         ]
     }
