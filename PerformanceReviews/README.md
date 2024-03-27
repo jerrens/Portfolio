@@ -26,7 +26,7 @@ These summaries are included below each section
 Unfortunately, due to our site being unexpectedly shutdown on March 19, 2024, we were in the middle of our evaluation period and the responses from my manager had not yet been release for my review.
 However, the self assessment of my accomplishments, growth, and efforts over the past year highlight many skills that would be valuable to a future employer.
 
-<details><summary><b>AI Summary</b></summary>
+<details open><summary><b>AI Summary</b></summary>
 
 > ### Technical Expertise and Project Management
 >
@@ -63,6 +63,68 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 </details>
 
 ## [May 2023 - with Manager Responses.pdf](./230530%20-%20with%20Manager%20Responses.pdf)
+
+<details open><summary><b>AI Summary of Manager Assessment</b></summary>
+
+> Your manager's comments paint a very positive picture of your contributions to the team. Here's a breakdown of the key takeaways:
+>
+> ### Technical Expertise and Impact:
+>
+> * You're a critical asset to the Cary and overall QNX test team, consistently delivering successful results across diverse tasks.
+> * Your work on test tools, has been instrumental in enabling wider adoption and improved test result analysis for over 100 team members.
+>   This has directly supported on-time, high-quality deliveries for projects.
+> * Your proactive approach to database management in Blackfish demonstrates a keen eye for performance optimization and a commitment to continuous improvement.
+>
+> ### Teamwork and Support:
+>
+> * You're a reliable "go-to" resource for the Cary team, readily lending a hand with tasks like building lab benches, creating solutions, and even hardware design review.
+> * Your willingness to mentor new hires fosters a collaborative and supportive team environment.
+> * You consistently demonstrate strong accountability, responsiveness to requests, and the ability to manage multiple tasks effectively.
+>
+> ### Recognizing Your Potential:
+>
+> * Your manager acknowledges your current workload and its importance to the company's test framework and automation efforts.
+>   They understand that efficient test processing is crucial for achieving wider goals.
+> * They recognize the potential for even greater impact by focusing your skills on fewer areas.
+>   This highlights their commitment to optimizing your contributions and maximizing your potential.
+>
+> Overall, your manager clearly values your diverse skillset, dedication, and positive impact on the team.
+> They see you as a key player in achieving the company's goals and are actively invested in supporting your continued growth.
+>
+</details>
+
+<details open><summary><b>AI Summary</b></summary>
+
+> This review showcases a wide range of skills across various categories. Here's a breakdown of the key takeaways:
+>
+> ### Technical Expertise:
+>
+> * **Full-Stack Development**: Experience with MongoDB, Node.js, Angular, HTTP (NGINX) server configuration, database management (configuration, optimization, replication), authentication & security, API development, JavaScript programming.
+> * **Project Management**: GitLab workflow (issues, repositories, branching strategies), JIRA ticketing system.
+> * **Server and Network Management**: Server hardware configuration and maintenance, network protocols, firmware updates, RAID controllers, Hypervisor setup (VM configuration).
+> * **Embedded Systems Design**: MicroPython programming, USB & Serial communication interface, Ethernet, REST API, embedded web server design.
+>
+> ### Problem-Solving and Initiative:
+>
+> * **Database Optimization**: Identified and resolved performance bottlenecks in MongoDB, improving query execution time significantly.
+> * **Cost-Effective Solutions**: Designed and implemented a Raspberry Pi-based terminal server solution as a cost-effective alternative to expensive commercial solutions.
+> * **Process Improvement**: Actively contributed to improving test result collection, analysis, and reporting through BlackFish development.
+>
+> ### Collaboration and Communication:
+>
+> * **Mentorship and Training**: Successfully onboarded and trained new team members.
+> * **Technical Communication**: Effectively presented web tool features to test teams.
+> * **Cross-Team Collaboration**: Worked with various internal teams to ensure successful site move and lab setup.
+>
+> ### Additional Skills:
+>
+> * **Learning Agility**: Willingness and ability to learn new skills quickly (e.g., MicroPython, Hypervisor).
+> * **Documentation**: Drafted a document outlining lab and test rack setup details for new international sites.
+> * **Attention to Detail**: Identified and corrected errors in quotes from vendors for the new shield room.
+>
+> Overall, this review portrays you as a well-rounded IT professional with strong technical skills, problem-solving abilities, and a collaborative work style.
+> These are all highly sought-after qualities in today's job market.
+</details>
 
 ## [April 2022 - with Manager Responses.pdf](./230530%20-%20with%20Manager%20Responses.pdf)
 
