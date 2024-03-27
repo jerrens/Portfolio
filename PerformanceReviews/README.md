@@ -265,6 +265,67 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 
 ## [April 2020 - with Manager Responses.pdf](./200423%20-%20with%20Manager%20Responses.pdf)
 
+<details open><summary><b>AI Summary of Manager Assessment</b></summary>
+
+> ### Key Accomplishments:
+>
+> * **Developed Test Results Database and Web Dashboard**: You played a central role in designing, creating, and deploying a comprehensive test results database and web dashboard solution.
+>   Your ability to grasp the big picture and integrate various components resulted in a scalable and user-friendly solution for all test teams.
+> * **Mentored NC State Senior Project Teams**: You provided excellent mentorship to NC State senior project teams, fostering a positive relationship with the university's computer science department.
+> * **Prepared "Red Lab" for Deployment**: You diligently researched and prepared the lab for operation, including selecting hardware, shelving, cabling, power, and networking requirements.
+>   This new lab will improve efficiency and distribute workload within the team.
+>
+> ### Company Values Demonstrated:
+>
+> * **Teamwork**: You consistently looked for ways to improve team efficiency through better tooling and work methods.
+> * **Accountability**: You took initiative and pursued project goals effectively, even when objectives were not entirely clear.
+> * **Customer Focus**: You demonstrated a strong commitment to meeting the expectations of your internal customers, including development and test teams.
+>
+> ### Development Areas:
+>
+> * **Continuous Learning**: Your manager encourages you to keep expanding your knowledge and skills related to test tool development technologies.
+>
+> ### Career Development Support:
+>
+> * **Focus on Test Automation**: Your manager suggests identifying a specific area within test automation to focus on, as the field is broad.
+>  Discussing options with your manager is recommended to develop a focused development plan.
+>
+> ### Overall Impression:
+>
+> Your manager values your well-rounded skillset, willingness to take on challenges, and collaborative approach to problem-solving.
+> They appreciate your contributions to developing valuable test tools and supporting the team.
+
+</details>
+
+<details open><summary><b>AI Summary</b></summary>
+
+> ### Technical Skills:
+>
+> * **Database Development and Administration**: Designed, implemented, and maintained a comprehensive test results database (BF).
+> * **Web Development**: Developed web-based tools using Angular framework to visualize test results and generate reports, demonstrating knowledge of modern web development practices.
+> * **Scripting**: Created parsing scripts to automate data extraction and analysis from log files, including efficient pattern recognition for bug identification.
+> * **Server Administration**: Set up and maintained a server for BF services, improving system performance.
+> * **Hardware Setup and Configuration**: Researched, procured, and configured hardware for a new test lab, including power distribution solutions.
+>
+> ### Problem-Solving and Innovation:
+>
+> * **Improved Data Collection and Analysis**: Developed scripts to capture more comprehensive test data and identify previously unnoticed errors.
+> * **Automated Reporting**: Designed tools for dynamic report generation, streamlining data comparison and trend analysis.
+> * **Legacy System Integration**: Created interface for test scripts to utilize different power distribution units, reducing vendor lock-in and future-proofing tests.
+>
+> ### Teamwork and Communication:
+>
+> * **Internal IT Support**: Provided technical assistance to colleagues, troubleshooting PC issues, equipment upgrades, and server configurations.
+> * **Mentorship**: Collaborated with NC State University senior design teams, guiding them in web application development for BF.
+> * **Customer Focus**: Developed tools to improve efficiency and user experience for internal development and test teams.
+>
+> ### Learning Agility:
+>
+> * **Rapidly Learned New Technologies**: Successfully adopted the Angular web development framework and implemented framework updates.
+> * **Continuous Improvement**: Identified potential scaling issues in web application design and collaborated to implement a modular solution.
+
+</details>
+
 ## [April 2019 - with Manager Responses.pdf](./190415%20-%20with%20Manager%20Responses.pdf)
 
 ## [April 2018 - with Manager Responses.pdf](./180413%20-%20with%20Manager%20Responses.pdf)
