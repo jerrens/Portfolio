@@ -426,4 +426,46 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 
 ## [April 2017 - with Manager Responses.pdf](./170410%20-%20with%20Manager%20Responses.pdf)
 
+<details open><summary><b>AI Summary of Manager Assessment</b></summary>
+
+> Your manager praised your technical expertise, teamwork, and willingness to learn new things. They highlighted your valuable contributions to the cloud upload feature and POSIX test environment.
+>
+> ### Key Accomplishments:
+>
+> * **Cloud Upload Feature**: You played a key role in defining the metadata and prototyping a solution for uploading device logs to the  cloud.
+>   This work was essential to getting the remote logging design and implementation underway.
+> * **POSIX Test Environment**: You stepped outside your comfort zone to work on the POSIX test environment.
+>   Your focus on test setup and reporting significantly improved the team's ability to track testing status and achieve POSIX compliance.
+> * **IT Support**: You continued to provide valuable IT support to your colleagues, demonstrating a strong customer focus (internal).
+>
+> ### Company Values Demonstrated:
+>
+> * **Teamwork**: You collaborated effectively with teammates, were open to feedback on your ideas, and shared your knowledge with others (e.g., Amazon S3 server).
+> * **Innovation**: You brought innovative thinking to your work, proposing constructive ideas and solutions.
+> * **Accountability**: You are a reliable team player who takes ownership of your assignments and strives to improve team performance through process optimization.
+>
+> Your manager views you as a valuable team member and is excited to see your continued development and contributions in the coming year.
+
+</details>
+
+<details open><summary><b>AI Summary</b></summary>
+
+> ### Technical Skills:
+>
+> * **Cloud Architecture and Design**: Designed a cost-effective cloud-based log upload and retrieval system using Amazon Web Services (AWS).
+> * **Automation and Scripting**: Automated the POSIX test suite, reducing execution time from 12+ hours to under 5 hours.
+> * **Data Management**: Developed a spreadsheet to manage and analyze results from over 9000 individual POSIX tests.
+> * **Problem-Solving and Innovation**: Identified bottlenecks in the POSIX test suite and implemented a parallel execution approach for faster testing.
+>   Designed application to minimize cloud storage costs while providing valuable data for developers.
+> * **Linux and QNX Knowledge**: Gained experience working with Linux and QNX operating systems through POSIX test environment improvements.
+>
+> ### Additional Skills:
+>
+> * **Learning Agility**: Quickly learned about AWS services and implemented them in a cost-effective way.
+> * **Teamwork**: Collaborated with colleagues to identify and address testing inefficiencies.
+> * **Communication**: Effectively communicated complex technical information through the development of a spreadsheet for POSIX test results.
+> * **Customer Focus:** Designed an application to be cost-effective for both the company and potential customers.
+> * **Initiative and Accountability**: Took ownership of automating the POSIX test suite and improving its efficiency.
+
+</details>
 <!-- markdownlint-restore -->

@@ -1,0 +1,13 @@
+{
+    "ignoreWords": [
+        "POSIX",
+        "skillset",
+        "skillsets",
+        "luxon",
+        "bson",
+        "Pinterest",
+        "Mandie",
+        "onboarded",
+        "maildev"
+    ]
+}
