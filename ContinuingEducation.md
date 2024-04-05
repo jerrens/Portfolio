@@ -11,7 +11,9 @@ Feedback is welcomed and appreciated!  If you're here exploring my portfolio and
 ## DevOps
 
 - [ ] Docker
+  - [x] [Docker for Developers](https://www.linkedin.com/learning/certificates/24d7b690b4ea39361dbdb6d9c3b768ce5b0c7409145403168f8365b0ca3351dc)
 - [ ] Kubernetes
+  - [x] [Learning Kubernetes](https://www.linkedin.com/learning/certificates/3e5721b8a0333fdb51b1fe6a18b74314b26082b6b9da21841dd0002d6da889b0)
 - [ ] Terraform
 - [ ] AWS
   - [ ] Optimize your Cloud Cost on AWS - April 25th @ 1PM
