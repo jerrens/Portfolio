@@ -57,9 +57,9 @@ Full Stack Developer  | Apex, NC
 February 2010 – March 2024 | Cary, NC
 
 #### Senior Systems Software Developer | Full Stack
-- Led the conception, design, development, deployment, and maintenance of the innovative BlackFish* web application, leveraging the MEAN stack.
+- Led the conception, design, development, deployment, and maintenance of the innovative [BlackFish](#blackfish) web application, leveraging the MEAN stack.
   - Reduced management of over 1 million weekly test results from 2 days to under 2 hours.
-- Designed and prototyped the BlackBook* web application (using MEAN stack) to streamline the management and sharing of hundreds of development boards.
+- Designed and prototyped the [BlackBook](#blackbook) web application (using MEAN stack) to streamline the management and sharing of hundreds of development boards.
   - Included features to efficiently allocate resources, balance manual and automated testing, and maximize development board utilization.
 - Designed, assembled, and maintained lab test racks for automated testing.
   -	Offered the position of Site Lab Manager, starting in May 2024.
@@ -107,7 +107,7 @@ Other Accomplishments
 
 ## Projects
 
-### BlackFish – Test Result Management Web Application	
+### <a name="blackfish"></a> BlackFish – Test Result Management Web Application	
 BlackBerry/QNX/Research In Motion | November 2017 – March 2024
 
 Developed an internal tool to centralize and manage test results from diverse frameworks and teams across the organization. The tool provided a REST API, enabling stakeholders to easily store, view, compare, filter, and investigate results. By empowering key stakeholders with valuable insights and monitoring capabilities, the tool significantly enhanced decision-making, triaging, and root-cause analysis, resulting in the successful storage and analysis of over 48.5 million tests during 2023, demonstrating its robustness and scalability in handling large volumes of data.
@@ -124,7 +124,7 @@ Node.js Service hosting REST API	NGINX Service hosting front end
   - Developed parsing scripts in JavaScript and Python tailored to each team’s specific procedures.
 - Developed an extensive suite of unit, integration, API, and E2E test cases for the backend system using the Mocha + Chai frameworks, ensuring thorough coverage and resilience of the delivered RESTful interface.
 
-### BlackBook – Hardware Reservation System Web Application	
+### <a name="blackbook"></a>BlackBook – Hardware Reservation System Web Application	
 BlackBerry/QNX/Research In Motion | 2023- March 2024
 
 An internal tool designed to efficiently manage the sharing and utilization of hundreds of development boards among the test team and software developers, optimizing resource allocation and enabling continuous testing.
@@ -135,7 +135,7 @@ An internal tool designed to efficiently manage the sharing and utilization of h
   - Developed a prototype for stakeholder review.
 - Collaborated with a team of seniors at NC State University to develop and implement the initial prototype.
 
-### ResumeTracker – Mongo Atlas
+### <a name="resume-tracker"></a>ResumeTracker – Mongo Atlas
 Self | March 23, 2024 - Current
 
 - Designed and created a Mongo Atlas App Service which is the target for `https://jerren.info/<Company>` short links provided in my resume to tally visits and then redirect viewers to a custom landing page.
@@ -148,7 +148,7 @@ Side Venture
 - Assuming sole responsibility for the development and rigorous testing of RESTful interface.
 - Providing consultation in the development of both the control board firmware and the Angular front-end dashboard.
  
-### Remote Bug and Log Reporting Tool
+### <a name="weevil"></a>Remote Bug and Log Reporting Tool
 BlackBerry/QNX/Research In Motion | 2016 – 2017
 
 - Contributed as a member of a team tasked with uploading logs and core dumps from devices undergoing development and field testing.
@@ -157,12 +157,12 @@ BlackBerry/QNX/Research In Motion | 2016 – 2017
 - Developed a C# application that connected to AWS services to retrieve object summaries, facilitating the review, management, and triaging of reported issues.
 - Implemented a caching mechanism to store retrieved objects locally on the intranet, enhancing performance and minimizing costs associated with AWS data transfer and requests.
 
-### Data Terminal Server
+### <a name="dts"></a>Data Terminal Server
 BlackBerry/QNX/Research In Motion | 2010 – 2015
 - Designed and implemented a generic C# console application as a reusable component for rapidly creating server-client processes, allowing new functionality to be quickly created as plugins to the framework.
 - Developed a suite of plugins to manage test requests, perform remote builds, and execute automated tasks.
 
-### Surge – Current Measurement Scope Application
+### <a name="surge"></a>Surge – Current Measurement Scope Application
 Ericsson Mobile Platforms | 2007 – November 2009
 - Coauthored a C# application to control, capture, and plot ADC measurements from 16 channels in real-time.
 - Authored bootloaders in C for two Atmel processors, enabling firmware updates by end-users.
