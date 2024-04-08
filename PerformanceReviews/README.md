@@ -19,7 +19,7 @@ I hope they offer valuable insights into my professional journey and help you ga
 <!-- TODO: Index the performance review files with outlines and summaries -->
 
 **Note:** Considering the length of many of these reviews, I fed the contents of each into an AI, requesting it to create a summary.
-These summaries are included below each section
+These summaries are included below each section.
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable no-duplicate-heading -->
@@ -469,3 +469,5 @@ However, the self assessment of my accomplishments, growth, and efforts over the
 
 </details>
 <!-- markdownlint-restore -->
+
+<!-- TODO: Fix the AI '> ###' headers to just be bolded so that the automatic TOC is less noisy -->
