@@ -13,6 +13,8 @@ Here, you'll find a selection of materials that highlight my skills, qualificati
 
 **[Skills](./Skills.md):** A list of skills that I have acquired throughout my professional career.
 
+**[Awards](./Awards/):** A showcase of the recognition and appreciation I have received from my colleagues and managers throughout my professional journey.
+
 **[Continuing Education](./ContinuingEducation.md):** List of courses I plan to take over the next few weeks to expand my knowledge.
 
 <!-- (Add Titles for Other Sections) awards, certifications, etc. -->
