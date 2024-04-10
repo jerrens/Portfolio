@@ -20,11 +20,13 @@ Feedback is welcomed and appreciated!  If you're here exploring my portfolio and
 
 ## Artificial Intelligence (AI)/ML/LLM
 
+- [ ] [RAG to Riches - A Quest to Build Your First AI Chatbot (with MongoDB + Node.js)](https://www.linkedin.com/events/ragtoriches-aquesttobuildingyou7183129083503910913/theater/)
 - [ ] TODO: Find some good courses
 
 ## Other
 
 - [ ] React.js
+- [ ] MongoDB.Local - May 2, 2024
 
 ## Search Platforms
 
