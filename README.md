@@ -9,7 +9,7 @@ Here, you'll find a selection of materials that highlight my skills, qualificati
 
 **[Sample Projects](./SampleProjects.md):** Dive deeper into my capabilities by exploring a selection of projects that showcase my technical skills, problem-solving abilities, and approach to collaboration.
 
-**Resume:** A [markdown](./Resumes/Resume.md) and [DocX](./Resumes/Jerren%20Saunders%20-%20Master%20Resume.docx) version of my resume.
+**Resume:** A [markdown](./Resumes/Resume.md) and [PDF](./Resumes/Jerren%20Saunders%20-%20Master%20Resume.pdf) version of my resume.
 
 **[Skills](./Skills.md):** A list of skills that I have acquired throughout my professional career.
 
