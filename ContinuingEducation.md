@@ -12,6 +12,7 @@ Feedback is welcomed and appreciated!  If you're here exploring my portfolio and
 
 - [ ] Docker
   - [x] [Docker for Developers](https://www.linkedin.com/learning/certificates/24d7b690b4ea39361dbdb6d9c3b768ce5b0c7409145403168f8365b0ca3351dc)
+  - [ ] <https://training.play-with-docker.com/>
 - [ ] Kubernetes
   - [x] [Learning Kubernetes](https://www.linkedin.com/learning/certificates/3e5721b8a0333fdb51b1fe6a18b74314b26082b6b9da21841dd0002d6da889b0)
 - [ ] Terraform
@@ -26,16 +27,9 @@ Feedback is welcomed and appreciated!  If you're here exploring my portfolio and
 ## Other
 
 - [ ] React.js
-- [ ] MongoDB.Local - May 2, 2024
 
 ## Search Platforms
 
 - [ ] Elasticsearch
 - [ ] Solr
 - [ ] Algolia
-
-## Job Searching
-
-- [ ] LinkedIn Profile Review - April 18th @ 5:42PM
-- [ ] Resume Advice
-- [ ] Interview Practices
